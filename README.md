@@ -82,7 +82,7 @@
 | 강찬영 | - Custom Vision 모델 개발<br>- OpenAI 모델 개발<br>- 음성 인식(STT) |
 | 안승랑 | - UI/UX 디자인<br>- 프론트엔드<br>- 시스템 연동 및 테스트 |
 | 조약돌 | - DB 설계 및 관리<br>- 백엔드 |
-| 최연희 | - UI/UX 디자인<br>- 프론트엔드<br>- 시연 영상<br>- - Figma 활용 UI/UX 디자인 |
+| 최연희 | - UI/UX 디자인<br>- 프론트엔드<br>- 시연 영상<br>- Figma 활용 UI/UX 디자인 |
 | 최영주 | - Google MediaPipe 모델 개발<br>- PPT|
 | 홍용민 | - PM / Google MediaPipe 모델 개발<br>- PPT |
 
