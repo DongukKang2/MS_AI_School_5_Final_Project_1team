@@ -127,7 +127,7 @@
 - 완전한 커스터마이징 가능
 
 ## 📞 문의하기
-- 이메일: example@gmail.com
+- 이메일: kdu79644@gmail.com
 - GitHub Issues: 버그 리포트 및 기능 제안
 
 ---
