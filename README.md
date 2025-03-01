@@ -6,7 +6,8 @@
 
 - **프로젝트명**: PT SAM (Personal Trainer SAM)
 - **기간** : 2024.01.20(월) ~ 2024.02.26(목)
-- **팀원** : 강동욱, 강찬영, 안승랑, 조약돌, 최연희, 최영주, 홍용민
+- **팀장** : 홍용민
+- **팀원** : 강동욱, 강찬영, 안승랑, 조약돌, 최연희, 최영주
 
 ##  🎥 프로젝트 시연 영상
 
@@ -78,12 +79,12 @@
 | 이름 | 역할 |
 |------|------|
 | 강동욱 | - Custom Vision & YOLOv11 모델 개발<br>- LLM 모델 개발(오픈소스, GPT-4o 기반 RAG)<br>- 시스템 연동 및 테스트  |
-| 강찬영 | - Custom Vision 모델 개발<br>- OpenAI<br>- 음성 인식(STT) |
+| 강찬영 | - Custom Vision 모델 개발<br>- OpenAI 모델 개발<br>- 음성 인식(STT) |
 | 안승랑 | - UI/UX 디자인<br>- 프론트엔드<br>- 시스템 연동 및 테스트 |
 | 조약돌 | - DB 설계 및 관리<br>- 백엔드 |
-| 최연희 | - UI/UX 디자인<br>- 프론트엔드<br>- 시연 영상<br>- PPT |
-| 최영주 | - Custom Vision 모델 개발<br>- Figma 활용 UI/UX 디자인 |
-| 홍용민 | - PM / Google MediaPipe<br>- PPT |
+| 최연희 | - UI/UX 디자인<br>- 프론트엔드<br>- 시연 영상<br>- - Figma 활용 UI/UX 디자인 |
+| 최영주 | - Google MediaPipe 모델 개발<br>- PPT|
+| 홍용민 | - PM / Google MediaPipe 모델 개발<br>- PPT |
 
 
 ## 📅 개발 일정
